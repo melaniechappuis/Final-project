@@ -17,7 +17,7 @@
     
     class ofApp :   public ofBaseApp,
                 public ofxMidiListener
-   {
+     {
 	
     public:
     
